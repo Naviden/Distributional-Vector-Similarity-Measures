@@ -3,7 +3,6 @@
 Code for reproducing the experimental results in:
 
 > **Benchmarking Distributional Vector Similarity Measures: A Survey**
-> Erik Cambria, Navid Nobani, Filippo Pallucchini, Fabio Mercurio
 
 ## Repository structure
 
