@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.egg-info/
+.DS_Store
+results/
+*.xlsx
