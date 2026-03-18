@@ -4,8 +4,7 @@ Vector Similarity and Distance Measures
 Implementations of 15 similarity/distance measures evaluated in:
 
 "Benchmarking Distributional Vector Similarity Measures: A Survey"
-Cambria, Nobani, Pallucchini, Mercurio (2026)
-Submitted to Expert Systems.
+
 """
 
 import numpy as np
